@@ -42,14 +42,23 @@ STEP 6 : Click on ‘RESET’ button to reload the webpage.
 
 Circuit Diagram:-
 
+<img width="902" height="436" alt="image" src="https://github.com/user-attachments/assets/af400f62-cd4b-4d5e-8490-f6a76ffce7ef" />
+
 Tabular Column:-
 
+<img width="1280" height="442" alt="image" src="https://github.com/user-attachments/assets/3de30775-5840-406d-8d17-1f5d21a0748a" />
+
 Results:-
-Practical
 
-Theoritical
+Thus Thevenin's theorem is verified practically and theoretically.
 
+Practical:-
 
+<img width="925" height="181" alt="image" src="https://github.com/user-attachments/assets/757cbd01-c6ed-4926-82d1-825b453c71a6" />
+
+Theoritical:-
+
+![WhatsApp Image 2025-11-27 at 11 25 01_287c0daa](https://github.com/user-attachments/assets/886d4542-2b63-4e8a-995a-d900ce234069)
 
 (b) Analyze and Experimentally verify Norton’s theorem practically
 
@@ -92,12 +101,22 @@ STEP 6: Click on ‘RESET’ button to reload the webpage.
 
 Circuit Diagram:-
 
+<img width="902" height="435" alt="image" src="https://github.com/user-attachments/assets/15b7c4b3-1e9d-4a6d-998f-6699edd9e629" />
+
 Tabular Column:-
 
+<img width="1280" height="448" alt="image" src="https://github.com/user-attachments/assets/66fd845d-958f-4d63-83e5-c9874af550d9" />
+
 Results:-
-Practical
 
-Theoritical
+Thus Norton's theorem is verified practically and theoretically
 
+Practical:-
+
+![WhatsApp Image 2025-11-27 at 11 27 53_98b1161d](https://github.com/user-attachments/assets/4abe0ccb-14e1-4c7b-a855-ba79d4cb3c4d)
+
+Theoritical:-
+
+![WhatsApp Image 2025-11-27 at 11 28 22_50390b89](https://github.com/user-attachments/assets/99f53a64-145f-4c24-9ef4-d6fede0ac44a)
 
 
